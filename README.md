@@ -1,11 +1,11 @@
 <h1 align="center">
-    Valentine's Wish
+    ijo b'day Wish
 </h1>
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
+[![Author](https://img.shields.io/badge/author-hellyosHaqiqie17-green)](https://github.com/hellyoshaqiqie17)
 
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [See it Live](https://hellyoshaqiqie17.github.io/)
 
 ## Make your own version :computer:
 
