@@ -7,8 +7,5 @@
 
 #### [See it Live](https://hellyoshaqiqie17.github.io/)
 
-## Contributing
-FUFUFUFU
-
 #### OwnerShip
  The animations used in the Repository is created by Hellyoshaqiqieee.:smile:
